@@ -1,2 +1,2 @@
 #!/bin/bash
-find type | rev | LC_ALL=C sort -f
+find | rev | LC_ALL=C sort -f
